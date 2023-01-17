@@ -18,7 +18,3 @@ body {
     border-bottom: 8px solid#d8cefe;
     color: #2b2839;
 }
-
-.dotted-border {
-    border: 1px dotted blue;
-}
